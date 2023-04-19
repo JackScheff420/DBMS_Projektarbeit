@@ -17,9 +17,9 @@ Optionale Funktionen:
 -	Voraussichtlicher Bestand
 
 Technische Umsetzung:
--	Datenbanksystem: MySQL (XAMPP)
+-	Datenbanksystem: MySQL (Ubuntu-Server mit LAMP)
 -	Datenbankschnittstelle: MySQL Connect in C#
--	Frontend als Webanwendung in C# (ASPX)
+-	Frontend als Webanwendung in C# (Blazor)
 
 Dokumentation:
 -	Lasten- und Pflichtenheft
