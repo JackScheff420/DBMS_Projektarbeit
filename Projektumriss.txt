@@ -1,0 +1,28 @@
+Projektarbeit: DBMS für Abteilung Einkauf in der Firma Contoso AG
+
+Für die Abteilung Materialeinkauf der Firma Contoso AG aus Betzdorf soll ein System entwickelt werden,
+um Bestandsartikel zu verwalten und Lagerbestände zu bearbeiten.
+
+Notwendige Funktionen:
+-	Frontend zur Anzeige von Artikeln mit Artikelbestand
+-	Hinzufügen neuer Artikel
+-	Entfernen von Artikeln
+-	Ändern von Artikeln
+-	Bestand erhöhen
+-	Bestand verringern
+
+Optionale Funktionen:
+-	Anzeige von Lieferanten
+-	Ändern von Lieferanten
+-	Voraussichtlicher Bestand
+
+Technische Umsetzung:
+-	Datenbanksystem: MySQL (XAMPP)
+-	Datenbankschnittstelle: MySQL Connect in C#
+-	Frontend als Webanwendung in C# (ASPX)
+
+Dokumentation:
+-	Lasten- und Pflichtenheft
+-	Dokumentation der technischen Funktionsweise
+-	Bedienungsanleitung
+-	Projektpräsentation
