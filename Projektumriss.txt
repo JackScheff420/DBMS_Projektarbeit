@@ -17,9 +17,8 @@ Optionale Funktionen:
 -	Voraussichtlicher Bestand
 
 Technische Umsetzung:
--	Datenbanksystem: MySQL (Ubuntu-Server mit LAMP)(https://www.bplaced.net für einen freien SQL Server)
--	Datenbankschnittstelle: MySQL Connect in C#
--	Frontend als Webanwendung in C# (Blazor)
+-	Datenbanksystem: Microsoft SQL
+-	Webanwendung in C# mit Blazor
 
 Dokumentation:
 -	Lasten- und Pflichtenheft
