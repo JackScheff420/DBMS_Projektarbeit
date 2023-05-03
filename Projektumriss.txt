@@ -17,7 +17,7 @@ Optionale Funktionen:
 -	Voraussichtlicher Bestand
 
 Technische Umsetzung:
--	Datenbanksystem: MariaDB
+-	Datenbanksystem: MariaDB / MS SQL
 -	Webanwendung in C# mit Blazor
 
 Dokumentation:
@@ -25,3 +25,6 @@ Dokumentation:
 -	Dokumentation der technischen Funktionsweise
 -	Bedienungsanleitung
 -	Projektpräsentation
+
+
+https://blazor.syncfusion.com/documentation/common/data-binding/bind-entity-framework#handling-crud-operations-with-our-syncfusion-blazor-datagrid-component
