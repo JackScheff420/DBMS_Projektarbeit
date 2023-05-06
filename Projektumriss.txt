@@ -17,7 +17,7 @@ Optionale Funktionen:
 -	Voraussichtlicher Bestand
 
 Technische Umsetzung:
--	Datenbanksystem: MariaDB / MS SQL
+-	Datenbanksystem: MySQL (MariaDB)
 -	Webanwendung in C# mit Blazor
 
 Dokumentation:
