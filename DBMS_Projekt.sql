@@ -4,7 +4,8 @@
 
 -- Erstellen der Tablle Lieferant
 CREATE TABLE Lieferant(
-	LieferantID INTEGER NOT NULL PRIMARY KEY,
+	LieferantID INTEGER NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	Bezeichnung VARCHAR(80),
 	Telefonnummer VARCHAR(40),
 	Mailadresse VARCHAR(80),
 	Strasse VARCHAR(80),
@@ -16,14 +17,14 @@ CREATE TABLE Lieferant(
 
 -- Erstellen der Tabelle Artikelart
 CREATE TABLE Artikelart(
-	ArtikelartID INTEGER NOT NULL PRIMARY KEY,
+	ArtikelartID INTEGER NOT NULL PRIMARY KEY AUTO_INCREMENT,
 	ArtikelBezeichnung VARCHAR(80)
 );
 
 
 -- Erstellen der Tabelle Artikel
 CREATE TABLE Artikel(
-	ArtikelID INTEGER NOT NULL PRIMARY KEY,
+	ArtikelID INTEGER NOT NULL PRIMARY KEY AUTO_INCREMENT,
 	Bezeichnung VARCHAR(80),
 	Artikelart INTEGER,
 	MengeIst INTEGER,
@@ -35,5 +36,4 @@ CREATE TABLE Artikel(
 	FOREIGN KEY (Lieferant) REFERENCES Lieferant(LieferantID),
 	FOREIGN KEY (Artikelart) REFERENCES Artikelart(ArtikelartID)
 	);
-	
 	
