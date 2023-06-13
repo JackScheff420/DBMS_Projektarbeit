@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KDNzUP4V7FZg/J5t3W8jBIv4Na5epFp4waloCSF4RtQ=",
+  "Hash": "99DwrTYZUuU8OBRTfcmZLzjYmUQwoQ2ETK7xDKu1ecI=",
   "Source": "DBMS_Projektarbeit",
   "BasePath": "_content/DBMS_Projektarbeit",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "DBMS_Projektarbeit\\wwwroot",
       "Source": "DBMS_Projektarbeit",
-      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\",
       "BasePath": "_content/DBMS_Projektarbeit",
       "Pattern": "**"
     }
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "C:\\Users\\scheffm\\.nuget\\packages\\syncfusion.blazor\\21.2.5\\staticwebassets\\styles\\tailwind-dark.css"
     },
     {
-      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DBMS_Projektarbeit.styles.css",
+      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DBMS_Projektarbeit.styles.css",
       "SourceId": "DBMS_Projektarbeit",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/DBMS_Projektarbeit",
       "RelativePath": "DBMS_Projektarbeit.styles.css",
       "AssetKind": "All",
@@ -1731,13 +1731,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DBMS_Projektarbeit.styles.css"
+      "OriginalItemSpec": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\obj\\Debug\\net6.0\\scopedcss\\bundle\\DBMS_Projektarbeit.styles.css"
     },
     {
-      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DBMS_Projektarbeit.bundle.scp.css",
+      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DBMS_Projektarbeit.bundle.scp.css",
       "SourceId": "DBMS_Projektarbeit",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/DBMS_Projektarbeit",
       "RelativePath": "DBMS_Projektarbeit.bundle.scp.css",
       "AssetKind": "All",
@@ -1748,13 +1748,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DBMS_Projektarbeit.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DBMS_Projektarbeit.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "DBMS_Projektarbeit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\",
       "BasePath": "_content/DBMS_Projektarbeit",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "DBMS_Projektarbeit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\",
       "BasePath": "_content/DBMS_Projektarbeit",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "DBMS_Projektarbeit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\",
       "BasePath": "_content/DBMS_Projektarbeit",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "DBMS_Projektarbeit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\",
       "BasePath": "_content/DBMS_Projektarbeit",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "DBMS_Projektarbeit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\",
       "BasePath": "_content/DBMS_Projektarbeit",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "DBMS_Projektarbeit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\",
       "BasePath": "_content/DBMS_Projektarbeit",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "DBMS_Projektarbeit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\",
       "BasePath": "_content/DBMS_Projektarbeit",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "DBMS_Projektarbeit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\",
       "BasePath": "_content/DBMS_Projektarbeit",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "DBMS_Projektarbeit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\",
       "BasePath": "_content/DBMS_Projektarbeit",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "DBMS_Projektarbeit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\",
       "BasePath": "_content/DBMS_Projektarbeit",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "DBMS_Projektarbeit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\",
       "BasePath": "_content/DBMS_Projektarbeit",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\css\\site.css",
       "SourceId": "DBMS_Projektarbeit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\",
       "BasePath": "_content/DBMS_Projektarbeit",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\favicon.ico",
       "SourceId": "DBMS_Projektarbeit",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\DBMS_Projektarbeit\\Code\\DBMS_Projektarbeit\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\scheffm\\Documents\\Blazor\\Temp\\Code\\DBMS_Projektarbeit\\wwwroot\\",
       "BasePath": "_content/DBMS_Projektarbeit",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

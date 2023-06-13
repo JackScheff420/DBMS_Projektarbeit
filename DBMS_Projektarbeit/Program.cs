@@ -1,4 +1,3 @@
-using DBMS_Projektarbeit.Data;
 using DBMS_Projektarbeit.Models;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
@@ -16,7 +15,6 @@ builder.Services.AddDbContext<LibraryContext>(option =>
 
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
-builder.Services.AddSingleton<WeatherForecastService>();
 builder.Services.AddSyncfusionBlazor();
 
 
