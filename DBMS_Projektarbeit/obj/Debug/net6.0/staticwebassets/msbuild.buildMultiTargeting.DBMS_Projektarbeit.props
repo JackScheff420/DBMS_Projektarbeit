@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DBMS_Projektarbeit.props" />
+</Project>

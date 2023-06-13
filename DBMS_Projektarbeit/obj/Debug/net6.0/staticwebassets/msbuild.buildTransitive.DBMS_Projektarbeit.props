@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DBMS_Projektarbeit.props" />
+</Project>
