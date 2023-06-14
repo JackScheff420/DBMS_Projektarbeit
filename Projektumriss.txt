@@ -11,13 +11,8 @@ Notwendige Funktionen:
 -	Bestand erhöhen
 -	Bestand verringern
 
-Optionale Funktionen:
--	Anzeige von Lieferanten
--	Ändern von Lieferanten
--	Voraussichtlicher Bestand
-
 Technische Umsetzung:
--	Datenbanksystem: MySQL (MariaDB)
+-	Datenbanksystem: MySQL (MariaDB) / SQL Express
 -	Webanwendung in C# mit Blazor
 
 Dokumentation:
