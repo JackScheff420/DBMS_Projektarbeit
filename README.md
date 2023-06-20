@@ -47,7 +47,8 @@ https://drive.google.com/drive/folders/1PGp7BTA1M0Y4znF4NEqkd_SAdCxyeI0j?usp=sha
 ## Durchführung der Programmierung:
 
 ### Datenbankerstellung
-![[Pasted image 20230510114548.png]]
+![image](https://github.com/JackScheff420/DBMS_Projektarbeit/assets/89392765/efe582cd-6de4-4749-aa9b-4286a6e43162)
+
 Datenbank erstellt
 
 Datenbankserver erstellt mit SQL Express 
