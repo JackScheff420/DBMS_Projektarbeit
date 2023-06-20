@@ -73,7 +73,8 @@ in Code von dem Projekt auf der Nu Konsole diesen Befehl ausgeführt um den Code
 ### Blazor Server App erstellen
 
 Blazor Server App erstellt
-![[Pasted image 20230613150846.png]]
+![image](https://github.com/JackScheff420/DBMS_Projektarbeit/assets/89392765/fc8388b9-f65d-42c6-bee5-1fca12fbc1c9)
+
 Und mit Github verbunden um Inhalte in einer Versionsverwaltung hochzuladen
 
 ---
@@ -171,7 +172,7 @@ LibraryBooks wird unten im Code neu festgelegt als aufruf von der `GetBooks()` m
 Mit den GridColumn Elementen wird festgelegt welche Felder welche Daten erhalten und wie sie angezeigt werden sollen (bsp. Width, Visible usw.)
 Mit Field=@nameof... wird der Name der Spalte festgelegt 
 
-![[Pasted image 20230620085647.png]]
+![image](https://github.com/JackScheff420/DBMS_Projektarbeit/assets/89392765/8f190486-8e19-4d51-b447-dc2a29fb5658)
 
 Die Daten konnten nun angezeigt werden allerdings noch nicht manipuliert werden. 
 Um diese funktionen einzufügen musste in dem @code abschnitt des Codes folgendes hinzugefügt werden:
