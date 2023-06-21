@@ -1,4 +1,6 @@
 # DBMS_Projektarbeit
+### Von Jannis Rosenthal, Peter Reiberger, David Hombach und Maximilian Scheffler
+
 ## Anforderung
 
 **Bewertung:**
