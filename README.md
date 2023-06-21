@@ -53,7 +53,9 @@ Datenbank erstellt
 
 Datenbankserver erstellt mit SQL Express 
 Mit der Datenbank verbunden (sqlexpress01)
+
 Die Datenbank heißt library
+
 Datenbanktabelle erstellt mit einfachem Befehl 
 
 ```sql
