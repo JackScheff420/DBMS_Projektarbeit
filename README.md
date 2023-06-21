@@ -57,6 +57,7 @@ Lasten- und Pflichtenheft: David, Jannis
 Präsentation: Peter und David
 Koordination: gemeinsam
 
+
 ## Durchführung der Programmierung:
 
 ### Datenbankerstellung
