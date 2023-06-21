@@ -46,6 +46,17 @@ Wir haben ein onedrive dokument für lastenheft und pflichtenheft und doku
 https://drive.google.com/drive/folders/1PGp7BTA1M0Y4znF4NEqkd_SAdCxyeI0j?usp=share_link
 
 ---
+
+Projektaufteilung:
+
+Datenbank & Verbindung zur Datenbank: Peter
+CRUD-Funktionen im C#-Code: Jannis und Max
+Frontend-Design: Max
+Dokumentation: gemeinsam
+Lasten- und Pflichtenheft: David, Jannis
+Präsentation: Peter und David
+Koordination: gemeinsam
+
 ## Durchführung der Programmierung:
 
 ### Datenbankerstellung
