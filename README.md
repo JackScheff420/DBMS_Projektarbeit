@@ -66,6 +66,7 @@ Available bit)
 ```
 
 in der Datenbank einen neuen User angelegt unter "sicherheit -> anmeldungen": testUser 
+(siehe appsettings.json connection string)
 in Code von dem Projekt auf der Nu Konsole diesen Befehl ausgeführt um den Code mit der Datenbank zu verbinden:
 
 ---
