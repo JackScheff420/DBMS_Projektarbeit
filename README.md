@@ -55,13 +55,13 @@ Datenbankserver erstellt mit SQL Express
 Mit der Datenbank verbunden (sqlexpress01)
 Datenbanktabelle erstellt mit einfachem Befehl 
 
-```aspx
+```sql
 Create Table Book(
 Id BigInt Identity(1,1) Primary Key Not Null,
 Name Varchar(200) Not Null,
 Author Varchar(100) Not Null,
 Quantity int,
-Price int Not Null,
+Price float Not Null,
 Available bit)
 ```
 
@@ -101,7 +101,8 @@ Die DbContext-Klasse ist eine Kernkomponente des Entity Framework, das für die 
 
 Die benötigten Daten wurden mithilfe eines Interfaces definiert um sie später zu fetchen
 Die `ILibraryService.cs` ist dafür zuständig
-```aspx
+
+```csharp
 namespace DBMS_Projektarbeit.Models
 {
     public interface ILibraryService
@@ -127,12 +128,12 @@ Der LibraryService sowie der ILibrary service wurden auch noch in der `programm.
 Um eine visualisierende Komponente hinzuzufügen musste bei den Abhängigkeiten mit NuGet Packages das "Syncfusion.Blazor" Packet hinzugefügt werden
 
 In der `_imports.razor` musste die Syncfusion.Blazor Komponente noch genutzt werden
-```aspx
+```c
 @using Syncfusion.Blazor
 ```
 
 Damit der Syle und die Visualisierung funktioniert muss folgendes in der `_host.cshtml` und in der `_layout.cshtml` hinzugefügt werden
-```aspx
+```html
 <head>
     <link href="_content/Syncfusion.Blazor/styles/bootstrap5.css" rel="stylesheet" />
     <script src="_content/Syncfusion.Blazor.Core/scripts/syncfusion-blazor.min.js" type="text/javascript"></script>
