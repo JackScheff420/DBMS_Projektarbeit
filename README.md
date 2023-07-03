@@ -149,7 +149,7 @@ In der `_imports.razor` musste die Syncfusion.Blazor Komponente noch genutzt wer
 @using Syncfusion.Blazor
 ```
 
-Damit der Syle und die Visualisierung funktioniert muss folgendes in der `_host.cshtml` und in der `_layout.cshtml` hinzugefügt werden
+Damit der Style und die Visualisierung funktioniert muss folgendes in der `_host.cshtml` und in der `_layout.cshtml` hinzugefügt werden
 ```html
 <head>
     <link href="_content/Syncfusion.Blazor/styles/bootstrap5.css" rel="stylesheet" />
